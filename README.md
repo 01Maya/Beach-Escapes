@@ -19,3 +19,4 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 - Smooth Slide In / Slide Out Animations
 - Hover Animations & Interactive Effects
 - Smooth Navigation to Section
+- Animated Buttons & Cards
