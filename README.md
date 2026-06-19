@@ -12,3 +12,6 @@ The landing page includes animated destination carousels, interactive activity c
 Designed with clean aesthetics and smooth transitions, the interface creates a luxury vacation-inspired user experience.
 
 ---
+
+# Features
+
