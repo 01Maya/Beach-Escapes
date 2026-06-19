@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"], variable: '--font-inter' })
 export const metadata: Metadata = {
   title: 'Beach Escapes - Premium Travel Experiences',
   description: 'Discover breathtaking beaches, exciting activities and unforgettable memories with Beach Escapes.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
