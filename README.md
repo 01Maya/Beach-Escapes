@@ -16,4 +16,5 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 # Features
 
 - Fully Responsive Design
-
+- Smooth Slide In / Slide Out Animations
+- Hover Animations & Interactive Effects
