@@ -5,7 +5,7 @@ Built with smooth animations, immersive visuals, and responsive layouts, the web
 
 ---
 
-## Description
+## Description 📃
 
 This project features a visually rich UI focused on beach tourism and tropical adventures with modern web interactions.  
 The landing page includes animated destination carousels, interactive activity cards, testimonial sections, and a fully responsive contact form.  
