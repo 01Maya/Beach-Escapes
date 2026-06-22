@@ -22,3 +22,5 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 - Animated Buttons & Cards
 - Mobile Friendly Navigation
 - Clean & Minimal UI/UX
+
+---
