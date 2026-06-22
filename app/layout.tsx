@@ -7,7 +7,7 @@ const playfair = Playfair_Display({ subsets: ["latin"], variable: '--font-playfa
 const inter = Inter({ subsets: ["latin"], variable: '--font-inter' })
 
 export const metadata: Metadata = {
-  title: 'Beach Escapes - Premium Travel Experiences',
+  title: 'Beach Escapes 🏖️ - Premium Travel Experiences',
   description: 'Discover breathtaking beaches, exciting activities and unforgettable memories with Beach Escapes✨',
   icons: {
     icon: [
