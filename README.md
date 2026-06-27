@@ -27,4 +27,5 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 
 # Tech Stack
 
+- Next.js
 
