@@ -32,5 +32,6 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 - Framer Motion
 - Shadcn UI
 
+---
 
 
