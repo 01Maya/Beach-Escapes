@@ -29,4 +29,8 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 
 - Next.js
 - Tailwind CSS
+- Framer Motion
+- Shadcn UI
+
+
 
