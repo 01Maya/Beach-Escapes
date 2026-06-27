@@ -24,3 +24,7 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 - Clean & Minimal UI/UX
 
 ---
+
+# Tech Stack
+
+
