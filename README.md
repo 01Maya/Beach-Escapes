@@ -31,6 +31,11 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 Provides responsive navigation links with smooth scrolling and a CTA booking button.
 
 ### Hero Section
+Displays a tropical beach hero banner with animated heading, description, and call-to-action button.
+
+
+
+
 
 ---
 
