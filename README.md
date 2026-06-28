@@ -27,6 +27,11 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 
 # Sections 
 
+### Navbar
+Provides responsive navigation links with smooth scrolling and a CTA booking button.
+
+
+
 ---
 
 # Tech Stack 🪄
