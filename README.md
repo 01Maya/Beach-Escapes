@@ -36,6 +36,7 @@ Displays a tropical beach hero banner with animated heading, description, and ca
 ### Why Choose Beach Escapes
 Highlights premium travel benefits like luxury resorts, guided tours, and beach experiences.
 
+### Popular Destinations
 
 
 ---
