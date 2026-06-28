@@ -30,7 +30,7 @@ Designed with clean aesthetics and smooth transitions, the interface creates a l
 ### Navbar
 Provides responsive navigation links with smooth scrolling and a CTA booking button.
 
-
+### Hero Section
 
 ---
 
