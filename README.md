@@ -33,7 +33,8 @@ Provides responsive navigation links with smooth scrolling and a CTA booking but
 ### Hero Section
 Displays a tropical beach hero banner with animated heading, description, and call-to-action button.
 
-
+### Why Choose Beach Escapes
+Highlights premium travel benefits like luxury resorts, guided tours, and beach experiences.
 
 
 
