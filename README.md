@@ -37,7 +37,7 @@ Displays a tropical beach hero banner with animated heading, description, and ca
 Highlights premium travel benefits like luxury resorts, guided tours, and beach experiences.
 
 ### Popular Destinations
-
+Showcases top beach destinations using an animated responsive carousel with hover effects.
 
 ---
 
