@@ -48,8 +48,9 @@ Shows guest reviews and travel experiences using animated testimonial cards.
 ### Contact Section
 Provides a responsive contact form with phone, email, and address information.
 
+### Footer
+Contains quick navigation links, company details, and legal information.
 
----
 ---
 
 # Tech Stack 🪄
