@@ -39,6 +39,10 @@ Highlights premium travel benefits like luxury resorts, guided tours, and beach 
 ### Popular Destinations
 Showcases top beach destinations using an animated responsive carousel with hover effects.
 
+### Activities Section
+
+
+
 ---
 
 # Tech Stack 🪄
