@@ -43,6 +43,7 @@ Showcases top beach destinations using an animated responsive carousel with hove
 Displays exciting beach activities including surfing, snorkeling, kayaking, scuba diving, and cruises.
 
 ### Testimonials Section
+Shows guest reviews and travel experiences using animated testimonial cards.
 
 ---
 
