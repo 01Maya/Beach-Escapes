@@ -53,6 +53,11 @@ Contains quick navigation links, company details, and legal information.
 
 ---
 
+
+# Preview
+
+---
+
 # Tech Stack 🪄
 
 - Next.js
