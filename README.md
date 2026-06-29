@@ -45,6 +45,11 @@ Displays exciting beach activities including surfing, snorkeling, kayaking, scub
 ### Testimonials Section
 Shows guest reviews and travel experiences using animated testimonial cards.
 
+### Contact Section
+Provides a responsive contact form with phone, email, and address information.
+
+
+---
 ---
 
 # Tech Stack 🪄
