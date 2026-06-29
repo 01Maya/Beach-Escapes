@@ -40,7 +40,7 @@ Highlights premium travel benefits like luxury resorts, guided tours, and beach 
 Showcases top beach destinations using an animated responsive carousel with hover effects.
 
 ### Activities Section
-
+Displays exciting beach activities including surfing, snorkeling, kayaking, scuba diving, and cruises.
 
 
 ---
