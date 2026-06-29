@@ -58,7 +58,7 @@ Contains quick navigation links, company details, and legal information.
 
 Modern luxury beach tourism landing page with immersive visuals, smooth transitions, animated destination cards, and responsive sections.
 
-https://beach-escapes.vercel.app/
+👉🏻 https://beach-escapes.vercel.app/
 
 ---
 
