@@ -78,6 +78,13 @@ Modern luxury beach tourism landing page with immersive visuals, smooth transiti
 
 # 🚀 Installation
 
+ 
+```bash
+npm install
+npm run build
+npm run dev
+```
+
 
 ---
  
