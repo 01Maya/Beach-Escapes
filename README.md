@@ -76,6 +76,10 @@ Modern luxury beach tourism landing page with immersive visuals, smooth transiti
 
 ---
 
+# 🚀 Installation
+
+
+---
  
 # 👨‍💻 Developed For
 
