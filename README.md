@@ -62,6 +62,11 @@ Modern luxury beach tourism landing page with immersive visuals, smooth transiti
 
 ---
 
+# Screenshot
+
+
+
+---
 # Tech Stack 🪄
 
 - Next.js
