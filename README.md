@@ -91,6 +91,14 @@ git clone https://github.com/your-username/beach-escapes.git
 cd beach-escapes
 ```
 
+## Install Dependencies
+
+```bash
+npm install
+```
+
+
+
 ---
  
 # Author 👨‍💻 
