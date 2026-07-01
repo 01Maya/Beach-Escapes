@@ -89,6 +89,7 @@ npm run dev
 
 ---
  
-# 👨‍💻 Developed For
+# 👨‍💻  Author
 
-Modern surfing schools, beach camps, travel agencies, and ocean activity businesses looking for a premium digital presence.
+
+
