@@ -91,5 +91,5 @@ npm run dev
  
 # Author 👨‍💻 
 
-Maya
+Maya :)
 
