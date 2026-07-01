@@ -79,6 +79,11 @@ Modern luxury beach tourism landing page with immersive visuals, smooth transiti
 
 # Installation 🚀
 
+## Clone Repository
+
+```bash
+git clone https://github.com/your-username/beach-escapes.git
+```
 
 
 ---
