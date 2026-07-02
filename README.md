@@ -105,9 +105,9 @@ npm run dev
 
 ## Open in Browser
 
-
+```bash
 http://localhost:3000
-
+```
 
  
 # Author 👨‍💻 
