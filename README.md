@@ -103,6 +103,8 @@ npm install
 npm run dev
 ```
 
+## Open in Browser
+
 
  
 # Author 👨‍💻 
